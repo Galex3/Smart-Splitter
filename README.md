@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[Targeting over 90% of market share!](https://www.appbrain.com/stats/top-android-sdk-versions)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Help
+
+I was having issues installing CocoaPods, but this fixed the issue for me: [https://stackoverflow.com/a/65399187](https://stackoverflow.com/a/65399187).
